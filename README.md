@@ -24,8 +24,6 @@
 
 ---
 
-<br/>
-
 ## 🚀 Live Project
 [![Live Demo](https://img.shields.io/badge/Visit_Site-Click_Here-orange?style=for-the-badge&logo=render&logoColor=white)](https://your-render-link.onrender.com)
 

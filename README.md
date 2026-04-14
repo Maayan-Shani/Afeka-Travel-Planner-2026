@@ -29,7 +29,7 @@
 Check out our full project presentation for a deep dive into the system's design and features:
 
 <div align="center">
-  <a href="your-presentation-file-name.pdf">
+  <a href="Afeka-Travel-Planner-2026.pdf">
     <img src="https://img.shields.io/badge/View_Presentation-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="View PDF Presentation" />
   </a>
 </div>

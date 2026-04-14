@@ -24,6 +24,23 @@
 
 ---
 
+<br/>
+
+## 🚀 Live Project
+[![Live Demo](https://img.shields.io/badge/Visit_Site-Click_Here-orange?style=for-the-badge&logo=render&logoColor=white)](https://your-render-link.onrender.com)
+
+<br/>
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Express](https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss)
+![AI](https://img.shields.io/badge/AI-Llama3-blue?style=for-the-badge)
+
+</div>
+
+---
+
 ## 📽️ Project Presentation
 
 Check out our full project presentation for a deep dive into the system's design and features:

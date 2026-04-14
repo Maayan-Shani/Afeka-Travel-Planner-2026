@@ -17,6 +17,13 @@
 ---
 
 
+## 👥 Authors
+
+- *Rotem Gilboa*
+- *Maayan Shani*
+
+---
+
 ## 📽️ Project Presentation
 
 Check out our full project presentation for a deep dive into the system's design and features:
@@ -26,13 +33,6 @@ Check out our full project presentation for a deep dive into the system's design
     <img src="https://img.shields.io/badge/View_Presentation-PDF-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="View PDF Presentation" />
   </a>
 </div>
-
----
-
-## 👥 Authors
-
-- *Rotem Gilboa*
-- *Maayan Shani*
 
 ---
 

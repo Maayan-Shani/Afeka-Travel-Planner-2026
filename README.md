@@ -24,6 +24,18 @@
 
 ---
 
+## 🎥 Project Demo Video
+
+Watch a full demonstration of the **Afeka Travel Planner 2026** in action on YouTube:
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=fQ_-UT3h9ZI">
+    <img src="https://img.shields.io/badge/Watch_Demo_Video-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo on YouTube" />
+  </a>
+</div>
+
+---
+
 ## 📽️ Project Presentation
 
 Check out our full project presentation for a deep dive into the system's design and features:
